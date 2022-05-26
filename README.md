@@ -54,7 +54,7 @@ You will get a link to direct download of the file:
 
 ![image](https://user-images.githubusercontent.com/23629420/165339432-6f053e43-4fa2-4429-8eb7-d2fc66f47c70.png)
 
-* Click ***CREATE DEPLOYMENT***. Select ***Empty*** and copy the contents there [deploy.yml](https://github.com/Dimokus88/ironfish/blob/main/deploy.yml) .
+* Click ***CREATE DEPLOYMENT***. Select ***Empty*** and copy the contents there [deploy.yml](https://github.com/Dimokus88/oasys/blob/main/deploy.yml) .
 
 ## 3. Fill the manifesto file and start the deployment
 
@@ -119,7 +119,7 @@ ___
 
 ![image](https://user-images.githubusercontent.com/23629420/165339432-6f053e43-4fa2-4429-8eb7-d2fc66f47c70.png)
 
-* Нажимаем ***CREATE DEPLOYMENT***. Выбираем ***Empty***(пустой template) и копируем туда содержимое [deploy.yml](https://github.com/Dimokus88/ironfish/blob/main/deploy.yml) .
+* Нажимаем ***CREATE DEPLOYMENT***. Выбираем ***Empty***(пустой template) и копируем туда содержимое [deploy.yml](https://github.com/Dimokus88/oasys/blob/main/deploy.yml) .
 
 ## 3. Заполняем файл манифеста и запускаем развертывание
 
